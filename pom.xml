@@ -32,8 +32,8 @@
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>nexusRepo</id>
-		    <url>http://44.210.238.199:8081/repository/myrepo/</url>
+		    <id>firstjavaApp</id>
+		    <url>http://44.199.247.138:8081/repository/firstjavaApp//</url>
 		</repository>
   	</distributionManagement>
 	
